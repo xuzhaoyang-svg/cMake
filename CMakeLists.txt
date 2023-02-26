@@ -11,7 +11,6 @@ add_executable(list list.cpp)
 
 add_executable(mergerList mergerList.cpp)
 add_executable(DoubleList DoubleList.cpp)
-add_executable(MergeSList_6_8 MergeSList_6_8.cpp)
 add_executable(SeqStack_6_9 SeqStack_6_9.cpp)
 
 add_executable(c_Stack c_Stack_6_9.cpp)
@@ -31,13 +30,11 @@ add_executable(_6_29_preOrderTree _6_29_preOrderTree.cpp)
 add_executable(_6_29_Inorder _6_29_Inorder.cpp)
 add_executable(_6_30_posorder _6_30_posorder.cpp)
 add_executable(_6_30_levelOrderTree _6_30_levelOrderTree.cpp)
-add_executable(Jacobi Jacobi.cpp)
 
-add_executable(2.2_Hello_process_1 "/Users/marie/Downloads/并行计算(学生版本)/code/2.2_Hello_process_1.cpp")
 
 add_executable(2.1_hello_world cmake-build-debug/2.1_hello_world.c)
 
-add_executable(MJacobi MJacobi.cpp)
+
 
 add_executable(_7_8_HighOfTree _7_8_HighOfTree.cpp)
 add_executable(_7_9_WidthOfTree _7_9_WidthOfTree.cpp)
@@ -77,3 +74,4 @@ add_executable(_8_22_minDistance _8_22_minDistance.cpp)
 add_executable(_8_27_deleteSeqList _8_27_deleteSeqList.cpp)
 add_executable(_8_27_treePathSum _8_27_treePathSum.cpp)
 add_executable(_9_7_createHashTable _9_7_createHashTable.cpp)
+add_executable(_2_26_isPrime _2_26_isPrime.cpp)
