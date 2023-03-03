@@ -75,3 +75,8 @@ add_executable(_8_27_deleteSeqList _8_27_deleteSeqList.cpp)
 add_executable(_8_27_treePathSum _8_27_treePathSum.cpp)
 add_executable(_9_7_createHashTable _9_7_createHashTable.cpp)
 add_executable(_2_26_isPrime _2_26_isPrime.cpp)
+
+
+add_executable(_3_3_TestCh_Stack _3_3_TestCh_Stack.cpp ch_stack.cpp)
+
+add_executable(ch_stack ch_stack.cpp)
